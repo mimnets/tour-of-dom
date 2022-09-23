@@ -12,3 +12,9 @@ const imPlaces = document.getElementsByClassName('important-places');
     }
 const heads = document.getElementById('my-dom');
     heads.innerText = 'My JS Heading';
+
+const cssqs = document.querySelectorAll('.jalal-set li');
+    console.log(cssqs)
+
+const cssqs = document.querySelectorAll('.jalal-set li');
+    console.log(cssqs)
